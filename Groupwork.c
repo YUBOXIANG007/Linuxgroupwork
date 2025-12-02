@@ -3,7 +3,6 @@
 int plus(int a,int b){
 		return a+b;
 }
-int mul(int c,int d)		
-{		return c*d;
-}	
-//test
+int jian(int a,int b)
+{ return a-b;
+}
